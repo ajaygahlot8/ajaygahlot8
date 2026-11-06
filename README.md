@@ -21,7 +21,7 @@ I run [Hermes Agent](https://github.com/NousResearch/hermes-agent) on Claude as 
 - **Claude as the brain**: Opus for decisions, Sonnet subagents in parallel, cheap models for lookups. [The routing →](https://ajaygahlot8.github.io/writing/claude-as-the-brain-of-my-ai-agent/)
 - **Long-term memory**: local hybrid recall in SQLite (vector + full-text + importance, with temporal decay).
 - **Skills as procedural memory**: 250+ self-maintained `SKILL.md` runbooks, loaded only when relevant.
-- **Ops through the agent**: homelab monitoring and about 50 scheduled jobs, routed to chat by urgency.
+- **Ops through the agent**: homelab monitoring and about 30 scheduled jobs, routed to chat by urgency.
 
 ## Latest writing
 
